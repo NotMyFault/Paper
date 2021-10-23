@@ -2,7 +2,7 @@ Paper [![Paper Build Status](https://img.shields.io/github/workflow/status/Paper
 [![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/papermc)
 ===========
 
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
+High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies. 
 
 
 **Support and Project Discussion:**
